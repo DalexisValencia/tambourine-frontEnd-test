@@ -14,7 +14,7 @@
 
 ## Comenzando 🚀
 
-Este manual permitira continuar manejando el flujo de desarrollo en el mantenimiento de este proyecto, tanto en el procesamiento de los estilos como en el manejo optimo de las imagenes.
+Este manual permitirá continuar manejando el flujo de desarrollo en el mantenimiento de este proyecto, tanto en el procesamiento de los estilos como en el manejo optimo de las imágenes.
 
 
 ## Requerimientos del sistema 📋
@@ -53,7 +53,7 @@ Para detener el anterior proceso solo se debe ejecutar **Ctrl + c**
 
 ## Imagenes 🗂️
 
-_En este ejemplo las imágenes fueron optimizadas y aunque son la misma fueron divididas en una para escritorio y otra para mobile, cumpliendo con el uso adecuado de la etiqueta picture._
+_En este ejemplo las imágenes fueron optimizadas para escritorio y para móvil. Con esto cumplimos con el uso adecuado de la etiqueta picture._
 
 ### Organización
 - **slider:** Contenedor para las imagenes del slide principal.
