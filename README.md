@@ -16,8 +16,6 @@
 
 Este manual permitira continuar manejando el flujo de desarrollo en el mantenimiento de este proyecto, tanto en el procesamiento de los estilos como en el manejo optimo de las imagenes.
 
-> ⚠️ **Por favor NO sobreescribir estilos con hojas externas**, al inspeccionar los elementos se puede evidenciar la seccion correspondiente a modificar gracias al archivo *.map* que acompaña cada hoja de estilos.
-
 
 ## Requerimientos del sistema 📋
 
@@ -42,9 +40,9 @@ Si ya ejecuto previamente esta instalación no es necesario volver a ejecutarla,
 
 ## Como Ejecutar 🕹️
 
-Abrir una terminal e ingresar a la carpeta raiz del theme del proyecto, en este caso la carpeta llamada *sa_golden_ruleta_theme*.
+Abrir una terminal e ingresar a la carpeta raiz del theme del proyecto, en este caso la carpeta llamada *tambourine-frontEnd-test*.
 
-    cd /**/**/sa_golden_ruleta_theme
+    cd  /tambourine-frontEnd-test
 
 Ejecutar la siguiente tarea transpilar los estilos - una vez se ejecuta queda en modo reactivo, escuchando los cambios que se generen en alguno de los archivos scss o sass.*
 
@@ -55,7 +53,7 @@ Para detener el anterior proceso solo se debe ejecutar **Ctrl + c**
 
 ## Imagenes 🗂️
 
-_La recomendación principal en el manejo optimo de las imagenes es mantener el peso, las dimensiones y los formatos adecuados._
+_En este ejemplo las imágenes fueron optimizadas y aunque son la misma fueron divididas en una para escritorio y otra para mobile, cumpliendo con el uso adecuado de la etiqueta picture._
 
 ### Organización
 - **slider:** Contenedor para las imagenes del slide principal.
